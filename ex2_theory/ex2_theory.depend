@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477136208 source:d:\users\rares\documents\info clasa bac\ex2_theory\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+

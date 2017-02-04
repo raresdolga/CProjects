@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479229840 source:d:\users\rares\documents\info clasa bac\dsd\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

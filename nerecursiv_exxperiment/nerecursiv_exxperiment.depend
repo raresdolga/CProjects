@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483813882 source:d:\users\rares\documents\info clasa bac\nerecursiv_exxperiment\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

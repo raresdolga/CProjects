@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479563551 source:d:\users\rares\documents\info clasa bac\stal\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

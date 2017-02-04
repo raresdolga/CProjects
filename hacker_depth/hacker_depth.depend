@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1481666252 source:d:\users\rares\documents\info clasa bac\hacker_depth\main.cpp
+	<stack>
+	<string>
+	<vector>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<iostream>
+

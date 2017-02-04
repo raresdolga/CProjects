@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1486231966 source:d:\users\rares\documents\info clasa bac\huffman_heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"heap.h"
+
+1486231801 d:\users\rares\documents\info clasa bac\huffman_heap\heap.h
+

@@ -1,0 +1,10 @@
+X[xy] is an atomic formula.  The formula X[xy] is false in G under W
+X[xy] is an atomic formula.  The formula X[xy] is false in G under W
+ExX[xy] is an existential formula.  The formula ExX[xy] is false in G under W
+ExX[xy] is an existential formula.  The formula ExX[xy] is false in G under W
+(Ex(X[xy]vX[yx])>X[xy]) is a binary connective formula.  The formula (Ex(X[xy]vX[yx])>X[xy]) is false in G under W
+AxAy(X[xy]vX[yx]) is a universal formula.  The formula AxAy(X[xy]vX[yx]) is false in G under W
+-X[xy] is a negated formula.  The formula -X[xy] is false in G under W
+-X[xy] is a negated formula.  The formula -X[xy] is false in G under W
+-EyX[xy]-X[yx] is a negated formula.  The formula -EyX[xy]-X[yx] is false in G under W
+ExAy(X[xy]vX[yx]) is an existential formula.  The formula ExAy(X[xy]vX[yx]) is false in G under W

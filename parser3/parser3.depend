@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482184571 source:d:\users\rares\documents\info clasa bac\parser3\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

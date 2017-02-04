@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1486223430 source:d:\users\rares\documents\info clasa bac\huffman_heap\heap_implem\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1486229101 source:d:\users\rares\documents\infoclasabac\heap_implem\main.c
+	<stdio.h>
+	<stdlib.h>
+
